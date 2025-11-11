@@ -1,13 +1,13 @@
-# 👋 Hi, I'm Sathish R
+👋 Hi, I'm Sathish R
 
 🎓 B.Tech Artificial Intelligence & Data Science (2025–2028)  
 💻 Aspiring Data Analyst | Google Certified | Power BI | Python | SQL  
 
 ---
 
-## 📊 My Data Projects
+📊 My Data Projects
 
-### 1️⃣ Power BI Sales Dashboard
+1️⃣ Power BI Sales Dashboard
 - Built an interactive dashboard analyzing sales trends by region and product.
 - Tools: Power BI, Excel  
 - [View Project Folder](#) *(You’ll link this later)*  
@@ -17,14 +17,14 @@
 - Built dashboards and predictive models using Python (Pandas, Matplotlib, Scikit-learn).  
 - Tools: Python, Jupyter Notebook
 
-### 3️⃣ House Price Prediction using Machine Learning
+3️⃣ House Price Prediction using Machine Learning
 - Built a linear regression model to predict house prices.
 - Tools: Python, Scikit-learn, Pandas  
 - [View Project Folder](#)
 
 ---
 
-## 🧠 Skills
+🧠 Skills
 **Languages:** Python, SQL  
 **Tools:** Power BI, Excel, Jupyter Notebook  
 **Libraries:** Pandas, Matplotlib, Seaborn, Scikit-learn  
@@ -32,15 +32,15 @@
 
 ---
 
-## 📜 Certifications
+📜 Certifications
 - Google Data Analytics Professional Certificate (Coursera)  
 - IBM Data Science Professional Certificate (Coursera)  
 - AWS Cloud Practitioner (Optional Future)
 
 ---
 
-## 🌐 Connect with Me
-- 🔗 [LinkedIn](https://linkedin.com/in/YOUR-LINK)  
-- 📧 Email: yourname@gmail.com  
+🌐 Connect with Me
+- 🔗 [LinkedIn](www.linkedin.com/in/sathish-r-2393412a5)  
+- 📧 Email: sathishat2005@gmail.com  
 - 🖥️ [Portfolio Repository](https://github.com/YOUR-USERNAME/My-Data-Analytics-Portfolio)
 
