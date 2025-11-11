@@ -12,10 +12,11 @@
 - Tools: Power BI, Excel  
 - [View Project Folder](#) *(You’ll link this later)*  
 
-🛒 [2. Ecommerce Sales Analysis](https://github.com/sathishr-ai/Ecommerce-Sales-Analysis.git)
+🛒 2. Ecommerce Sales Analysis
 - Analyzed 1,000+ sales records to identify top-performing regions and categories.  
 - Built dashboards and predictive models using Python (Pandas, Matplotlib, Scikit-learn).  
 - Tools: Python, Jupyter Notebook
+- [View Project Folder](#) *(https://github.com/sathishr-ai/Ecommerce-Sales-Analysis.git)* 
 
 3️⃣ House Price Prediction using Machine Learning
 - Built a linear regression model to predict house prices.
