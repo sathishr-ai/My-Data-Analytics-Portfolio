@@ -12,10 +12,10 @@
 - Tools: Power BI, Excel  
 - [View Project Folder](#) *(You’ll link this later)*  
 
-### 2️⃣ Python EDA on Student Performance
-- Cleaned and visualized a dataset using Pandas, Matplotlib, and Seaborn.
-- Tools: Python, Jupyter Notebook  
-- [View Notebook](#)
+🛒 [2. Ecommerce Sales Analysis](https://github.com/sathishr-ai/Ecommerce-Sales-Analysis.git)
+- Analyzed 1,000+ sales records to identify top-performing regions and categories.  
+- Built dashboards and predictive models using Python (Pandas, Matplotlib, Scikit-learn).  
+- Tools: Python, Jupyter Notebook
 
 ### 3️⃣ House Price Prediction using Machine Learning
 - Built a linear regression model to predict house prices.
