@@ -1,6 +1,6 @@
 👋 Hi, I'm Sathish R
 
-🎓 B.Tech Artificial Intelligence & Data Science (2025–2028)  
+🎓 B.Tech Artificial Intelligence & Data Science 
 💻 Aspiring Data Analyst | Google Certified | Power BI | Python | SQL  
 
 ---
@@ -16,7 +16,7 @@
 - Analyzed 1,000+ sales records to identify top-performing regions and categories.  
 - Built dashboards and predictive models using Python (Pandas, Matplotlib, Scikit-learn).  
 - Tools: Python, Jupyter Notebook
-- [View Project Folder](#) *(https://github.com/sathishr-ai/Ecommerce-Sales-Analysis.git)* 
+- (https://github.com/sathishr-ai/Ecommerce-Sales-Analysis.git)
 
 3️⃣ House Price Prediction using Machine Learning
 - Built a linear regression model to predict house prices.
